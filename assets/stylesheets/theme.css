@@ -10,7 +10,7 @@ body {
 }
 
 .content {
-  background-color: #030303;
+  background-color: rgb(255, 50, 255);
   color: #eeeeee;
   display: flex;
   padding: 15px;
