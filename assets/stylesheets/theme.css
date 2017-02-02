@@ -1,8 +1,8 @@
 body {
   background-color: #eeeeee;
   color: #030303;
-  margin: 0;
-  padding: 0;
+  margin: 20;
+  padding: 5;
 }
 
 .header {
@@ -17,5 +17,5 @@ body {
 }
 
 p {
-  margin: 0 15px;
+  margin: 15px;
 }
