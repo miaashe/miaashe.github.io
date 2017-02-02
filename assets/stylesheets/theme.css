@@ -20,3 +20,11 @@ body {
 p {
   margin: 15px;
 }
+
+#content-image {
+  max-width: 350px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  border: 120px;
+  padding: 120px;
+}
